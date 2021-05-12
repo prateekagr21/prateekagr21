@@ -19,5 +19,6 @@ using namespace std;
 int main(){
     cout<< "Hope we will meet soon";
     // idk why i did this..
+    // Maybe because of covid,
     // But anyway, who dosen't know c++ these days🤷🏻‍♂️
 }
