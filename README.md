@@ -5,11 +5,22 @@
 <img align="right" alt="GIF" src="prateekportfolio.gif" height="300" />
     
 - 👨🏽‍💻 I'm currently working on **My Skills.**
-- 🧐 I’m interested in the field of **Business Analytics**
-- 🌱 I’m currently learning **Data Analysis** in the field of **Artificial Intelligence**
-- 👯 I’m looking to collaborate on Projects in Machine Learning and Deep Learning
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/prateek-agrawal-9358a916b/)
 
+- 🧐 I’m interested in the field of **Business Analytics.**
+- 🌱 I’m currently learning **Data Analysis** in the field of **Artificial Intelligence.**
+- 👯 I’m looking to collaborate on Projects in Machine Learning and Deep Learning.
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/prateek-agrawal-9358a916b/)
+- 🎹 I am a **Keyboardist** with a senior diploma.
+- 📷 I love to **Capture Moments**, here: [Instagram](https://www.instagram.com/prateek._.agr/)
+
+```C++
+#include<iostream>
+using namespace std;
+int main(){
+    cout<< "Hope we will meet soon";
+    // idk why i did this..
+    // But anyway, who dosen't know c++ these days🤷🏻‍♂️
+}
 <!---
 prateekagr21/prateekagr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
