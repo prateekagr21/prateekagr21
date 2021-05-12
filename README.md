@@ -21,7 +21,3 @@ int main(){
     // idk why i did this..
     // But anyway, who dosen't know c++ these days🤷🏻‍♂️
 }
-<!---
-prateekagr21/prateekagr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
