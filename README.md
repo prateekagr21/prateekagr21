@@ -1,4 +1,4 @@
-<img alt="prateekagrawal" src="Prateek Agrawal Banner .png" width = 100%  />
+<img alt="prateekagrawal" src="prateekBanner.png" width = 100%  />
 
 <h2 align="center"; font-family="Arial";font-weight=bolder>Hiya 👋, This is Prateek Agrawal</h2>
 
