@@ -1,4 +1,6 @@
-<h1 align="center"; font-family="Arial";font-weight=bolder>Hiya 👋, This is Prateek Agrawal</h1>
+<img alt="prateekagrawal" src="Prateek Agrawal Banner .png" width = 100%  />
+
+<h2 align="center"; font-family="Arial";font-weight=bolder>Hiya 👋, This is Prateek Agrawal</h2>
 
 <h3 align="center">Penultimate year student of Birla Institute of Technology, Mesra  pursuing Integrated Masters in Mathematics and Computing </h3>
 
