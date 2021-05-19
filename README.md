@@ -7,6 +7,7 @@
 <img align="right" alt="GIF" src="prateekportfolio.gif" height="300" />
     
 - 👨🏽‍💻 I'm currently be **Analyzing Data**
+
 - 🧐 I’m interested in the field of **Business Analytics.**
 - 🌱 I’m currently learning **Data Analysis** in the field of **Artificial Intelligence.**
 - 👯 I’m looking to collaborate on Projects in Machine Learning and Deep Learning.
